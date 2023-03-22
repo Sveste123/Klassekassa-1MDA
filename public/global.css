@@ -1,0 +1,33 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.saldo {
+    background-color: #cce5ff;
+    padding: 20px;
+}
+
+.saldo h2 {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.historikk {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f8d7da;
+}
+
+.historikk h2 {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.historikk li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
